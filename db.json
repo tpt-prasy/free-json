@@ -1,1 +1,1 @@
-{"key":0,"name":"ResolvedAlerts","size":"small"},{"key":1,"name":"UserStatus","size":"small"},{"key":2,"name":"ActiveAlerts","size":"small"},{"key":3,"name":"OpenAlerts","size":"medium"},{"key":4,"name":"ClosedAlerts","size":"medium"},{"key":5,"name":"IssueLog","size":"large"}
+[{"key":0,"name":"ResolvedAlerts","size":"small"},{"key":1,"name":"UserStatus","size":"small"},{"key":2,"name":"ActiveAlerts","size":"small"},{"key":3,"name":"OpenAlerts","size":"medium"},{"key":4,"name":"ClosedAlerts","size":"medium"},{"key":5,"name":"IssueLog","size":"large"}]
